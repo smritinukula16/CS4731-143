@@ -1,2 +1,1 @@
-Task-1: Create cube, sphere and cylinder.
-Task-2: Design a simple object using loop cut.
+Task: Design a simple object using extrude, inset, bevel and loop cut.
